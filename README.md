@@ -1,4 +1,6 @@
 #Advanced Python
-lists
-Tuples
+
+1.Lists.
+2.Tuples.
+3.Dictionaries.
 
