@@ -4,6 +4,6 @@
 2.Tuples.
 3.Dictionaries.
 4.Sets.
-5.
+5.Strings
 
 
