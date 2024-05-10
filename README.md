@@ -5,7 +5,7 @@
 3.Dictionaries.
 4.Sets.
 5.Strings
-6.Collecions.
+6.Collections.
 
 
 
