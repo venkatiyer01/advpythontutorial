@@ -1,0 +1,14 @@
+2024-05-12 18:31:24,780 - INFO - The value of x is 2
+2024-05-12 18:31:24,780 - ERROR - Zerodivisionerror
+Traceback (most recent call last):
+  File "D:\tutorials\python\helperlog.py", line 12, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2024-05-12 18:31:24,786 - ERROR - test
+Traceback (most recent call last):
+  File "D:\tutorials\python\helperlog.py", line 23, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2024-05-12 18:31:24,788 - INFO - test the costum logger
