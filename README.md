@@ -7,6 +7,9 @@
 5.Strings
 6.Collections.
 7.Itertools.
+8.Lambda Function.
+9.Exception and Error.
+
 
 
 
